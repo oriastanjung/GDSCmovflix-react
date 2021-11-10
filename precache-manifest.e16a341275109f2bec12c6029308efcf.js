@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87704e8bb8118d65d61d0c81ac645284",
+    "revision": "4ab804085e5fb3239ca345a7d109d126",
     "url": "/GDSCmovflix-react/index.html"
   },
   {
-    "revision": "f689695d9ef60bdfecea",
+    "revision": "c62f3110152fd1ba2da2",
     "url": "/GDSCmovflix-react/static/css/main.46566255.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GDSCmovflix-react/static/js/3.42c86680.chunk.js"
   },
   {
-    "revision": "f689695d9ef60bdfecea",
-    "url": "/GDSCmovflix-react/static/js/main.3c626dc7.chunk.js"
+    "revision": "c62f3110152fd1ba2da2",
+    "url": "/GDSCmovflix-react/static/js/main.f0889080.chunk.js"
   },
   {
     "revision": "71593a3cd9506f90633e",
