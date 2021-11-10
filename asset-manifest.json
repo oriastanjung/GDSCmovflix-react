@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GDSCmovflix-react/static/css/main.46566255.chunk.css",
-    "main.js": "/GDSCmovflix-react/static/js/main.a2dbc50e.chunk.js",
-    "main.js.map": "/GDSCmovflix-react/static/js/main.a2dbc50e.chunk.js.map",
+    "main.js": "/GDSCmovflix-react/static/js/main.3c626dc7.chunk.js",
+    "main.js.map": "/GDSCmovflix-react/static/js/main.3c626dc7.chunk.js.map",
     "runtime-main.js": "/GDSCmovflix-react/static/js/runtime-main.8b1354a9.js",
     "runtime-main.js.map": "/GDSCmovflix-react/static/js/runtime-main.8b1354a9.js.map",
     "static/js/2.62633439.chunk.js": "/GDSCmovflix-react/static/js/2.62633439.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.42c86680.chunk.js": "/GDSCmovflix-react/static/js/3.42c86680.chunk.js",
     "static/js/3.42c86680.chunk.js.map": "/GDSCmovflix-react/static/js/3.42c86680.chunk.js.map",
     "index.html": "/GDSCmovflix-react/index.html",
-    "precache-manifest.4c96fd8d2c4927671395537cabc52be9.js": "/GDSCmovflix-react/precache-manifest.4c96fd8d2c4927671395537cabc52be9.js",
+    "precache-manifest.7eca84d79ad3f9ffa37d5985e5ed30d6.js": "/GDSCmovflix-react/precache-manifest.7eca84d79ad3f9ffa37d5985e5ed30d6.js",
     "service-worker.js": "/GDSCmovflix-react/service-worker.js",
     "static/css/main.46566255.chunk.css.map": "/GDSCmovflix-react/static/css/main.46566255.chunk.css.map",
     "static/js/2.62633439.chunk.js.LICENSE.txt": "/GDSCmovflix-react/static/js/2.62633439.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.8b1354a9.js",
     "static/js/2.62633439.chunk.js",
     "static/css/main.46566255.chunk.css",
-    "static/js/main.a2dbc50e.chunk.js"
+    "static/js/main.3c626dc7.chunk.js"
   ]
 }
