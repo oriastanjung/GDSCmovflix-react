@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GDSCmovflix-react/static/css/main.46566255.chunk.css",
+    "main.js": "/GDSCmovflix-react/static/js/main.a2dbc50e.chunk.js",
+    "main.js.map": "/GDSCmovflix-react/static/js/main.a2dbc50e.chunk.js.map",
+    "runtime-main.js": "/GDSCmovflix-react/static/js/runtime-main.8b1354a9.js",
+    "runtime-main.js.map": "/GDSCmovflix-react/static/js/runtime-main.8b1354a9.js.map",
+    "static/js/2.62633439.chunk.js": "/GDSCmovflix-react/static/js/2.62633439.chunk.js",
+    "static/js/2.62633439.chunk.js.map": "/GDSCmovflix-react/static/js/2.62633439.chunk.js.map",
+    "static/js/3.42c86680.chunk.js": "/GDSCmovflix-react/static/js/3.42c86680.chunk.js",
+    "static/js/3.42c86680.chunk.js.map": "/GDSCmovflix-react/static/js/3.42c86680.chunk.js.map",
+    "index.html": "/GDSCmovflix-react/index.html",
+    "precache-manifest.4c96fd8d2c4927671395537cabc52be9.js": "/GDSCmovflix-react/precache-manifest.4c96fd8d2c4927671395537cabc52be9.js",
+    "service-worker.js": "/GDSCmovflix-react/service-worker.js",
+    "static/css/main.46566255.chunk.css.map": "/GDSCmovflix-react/static/css/main.46566255.chunk.css.map",
+    "static/js/2.62633439.chunk.js.LICENSE.txt": "/GDSCmovflix-react/static/js/2.62633439.chunk.js.LICENSE.txt",
+    "static/media/film.svg": "/GDSCmovflix-react/static/media/film.08424932.svg",
+    "static/media/heroIMG.svg": "/GDSCmovflix-react/static/media/heroIMG.b0517f48.svg",
+    "static/media/whislist.svg": "/GDSCmovflix-react/static/media/whislist.e26354b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1354a9.js",
+    "static/js/2.62633439.chunk.js",
+    "static/css/main.46566255.chunk.css",
+    "static/js/main.a2dbc50e.chunk.js"
+  ]
+}
