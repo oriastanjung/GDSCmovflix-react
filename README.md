@@ -14,12 +14,12 @@ Here you can read, see the rate of the movies, and search movie that you want to
 * Pop Up Modal Movies, So easier to read
 * Fully Responsive Design
 * Add or Remove your Favourite Movies From Wishlist (NEW)
-
+* Better Performance in Speed Loading (NEW)
 ## Bug
 * Search Movie Still not fetching using API (BUG)   
   
 ### Creator
-![Image of GDSC](/images/gdsc.png)  
+![Image of GDSC](/gdsc.png)  
 
 
 Name : O. Riastanjung  
