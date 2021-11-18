@@ -1,0 +1,113 @@
+ul li{
+    list-style: none;
+}
+
+.cardsWhislist{
+    border: 1px solid #6d71f9;
+    border-radius: 15px;
+    background-color: #f5f6fc;
+    display: flex;
+    margin-bottom: 1em;
+    width: 90%;
+}
+.whislistIMG{
+    
+    height: 70px;
+    width: 70px;
+    padding: 20px;
+    text-align: center;
+}
+.whislistIMG img{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+    
+}
+.whislistInfo{
+    width: 90%;
+}
+.whislistInfo h3{
+    font-size: 20px;
+}
+.whislistInfo p{
+    font-size: 18px;
+}
+.whislistErr {
+    margin-top: 4em;
+    text-align: center;
+}
+.whislistErr h2{
+    font-size: 40px;
+}
+.close-whislist {
+    margin-left: 0.1em;
+    margin-right: 0.4em;
+    height: 20px;
+}
+
+@media (max-width : 1025.98px){
+    .whislistInfo h3{
+        font-size: 38px;
+    }
+    .whislistInfo p{
+        height: 70px!important;
+        overflow: scroll;
+        font-size: 28px;
+        margin-top: -0.4em;
+    }
+    .whislistIMG{
+        margin-top: 0.9em;
+    }
+}
+@media (max-width : 769.98px){
+    .whislistInfo h3{
+        font-size: 25px;
+    }
+    .whislistInfo p{
+        height: 70px!important;
+        overflow: scroll;
+        font-size: 21px;
+        margin-top: -0.4em;
+    }
+    .whislistIMG{
+        margin-top: 0.9em;
+    }
+    .whislistErr h2{
+        font-size: 38px;
+    }
+}
+@media (max-width: 420.98px) { 
+    .whislistInfo h3{
+        font-size: 20px;
+    }
+    .whislistInfo p{
+        height: 70px!important;
+        overflow: scroll;
+        font-size: 18px;
+        margin-top: -0.3em;
+    }
+    .whislistIMG{
+        margin-top: 0.9em;
+    }
+    .whislistErr h2{
+        font-size: 26px;
+    }
+}
+@media (max-width: 320.98px) { 
+    .whislistInfo h3{
+        font-size: 18px;
+    }
+    .whislistInfo p{
+        height: 70px!important;
+        overflow: scroll;
+        font-size: 16px;
+        margin-top: -1em;
+    }
+    .whislistIMG{
+        margin-top: 0.9em;
+    }
+    .whislistErr h2{
+        font-size: 20px;
+    }
+}
